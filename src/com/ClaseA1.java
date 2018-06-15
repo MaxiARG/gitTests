@@ -1,5 +1,5 @@
 package com;
 
-public class ClaseA {
-	public void decirHola() {System.out.println("Hola Mundo");}
+public class ClaseA1 {
+	public void decirHolaMundo() {System.out.println("Hola Mundo");}
 }
